@@ -1,0 +1,12 @@
+C:\Users\DELL\Desktop\GPS\test2\test2\bin\Debug\test2.exe.config
+C:\Users\DELL\Desktop\GPS\test2\test2\obj\Debug\test2.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\GPS\test2\test2\obj\Debug\test2.Form1.resources
+C:\Users\DELL\Desktop\GPS\test2\test2\obj\Debug\test2.Properties.Resources.resources
+C:\Users\DELL\Desktop\GPS\test2\test2\obj\Debug\test2.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\GPS\test2\test2\bin\Debug\test2.exe
+C:\Users\DELL\Desktop\GPS\test2\test2\bin\Debug\test2.pdb
+C:\Users\DELL\Desktop\GPS\test2\test2\obj\Debug\test2.exe
+C:\Users\DELL\Desktop\GPS\test2\test2\obj\Debug\test2.pdb
+F:\111AAAA学习\GPS\test2\test2\bin\Debug\test2.exe.config
+F:\111AAAA学习\GPS\test2\test2\obj\Debug\test2.exe
+F:\111AAAA学习\GPS\test2\test2\obj\Debug\test2.pdb
